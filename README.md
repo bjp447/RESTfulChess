@@ -1,11 +1,12 @@
 Based on the chess engine from https://sourceforge.net/projects/javaopenchess/ published by matlak.
 
-4/10/19
+Brennan Pohl, 3/31/19
 
 
 This project strips the UI from javaopenchess and provides a stateful RESTful interface using Spring Boot to access and interact with the chess engine instead. 
 
-Oringinaly written as a homewrok assignment for a Cloud Computing course.
+
+Oringinaly written as a homework assignment for a Cloud Computing course, Spring 2019.
 
 
 relevent packages/files:
