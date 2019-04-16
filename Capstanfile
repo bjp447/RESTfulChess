@@ -1,0 +1,8 @@
+base: cloudius/osv-openjdk8
+ 
+build: mvn package
+ 
+files:
+  /usr/app/rest_chess.jar: target/jChess-1.5.1.jar
+ 
+cmdline: /java.so -jar /usr/app/rest_chess.jar

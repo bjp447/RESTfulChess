@@ -1,0 +1,11 @@
+{"move": {
+  "session": "MarkGrechanik1",
+  "startSquare": "e2",
+  "endSquare": "f3",
+  "description": {
+    "chesspiece": [
+      {"bishop": "whitesquares", "attacks": "pawn"},
+      {"pawn": "black", "attackedby": "bishop"}
+    ]
+  }
+}}
